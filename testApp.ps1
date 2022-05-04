@@ -1,0 +1,3 @@
+wt new-tab --tabColor "#ff0000" --title client --suppressApplicationTitle PowerShell /c Start-Process npm start -WorkingDirectory "D:\MULTIMEDIA\Documentos\Workspaces\VS\React-App-1\client" -Wait -NoNewWindow `
+`; new-tab --tabColor "#00ff00" --title posts --suppressApplicationTitle PowerShell /c Start-Process npm start -WorkingDirectory "D:\MULTIMEDIA\Documentos\Workspaces\VS\React-App-1\posts" -Wait -NoNewWindow `
+`; new-tab --tabColor "#0000ff" --title comments --suppressApplicationTitle PowerShell /c Start-Process npm start -WorkingDirectory "D:\MULTIMEDIA\Documentos\Workspaces\VS\React-App-1\comments" -Wait -NoNewWindow `
